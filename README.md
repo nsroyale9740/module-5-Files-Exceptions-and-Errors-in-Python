@@ -50,3 +50,10 @@ Line 2: File handling in progress
 
 ### 🔹 Example Output
 
+Enter additional text to append: Learning file handling in Python.
+Data successfully appended to output.txt.
+
+Enter 25 to read the file content: 25
+Final content of output.txt:
+Hello, Python!
+Learning file handling in Python.
